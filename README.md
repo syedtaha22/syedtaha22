@@ -9,7 +9,7 @@
 📫 How to reach me: [syetaha@gmail.com](mailto:syetaha@gmail.com)  
 ⚡ Fun fact: I enjoy photography and making 3D animations.
 
-## Life Philosophy
+Simple Philosophy
 
 ```cpp
 while(notDoinganything){
