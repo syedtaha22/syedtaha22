@@ -12,9 +12,7 @@
 Simple Philosophy
 
 ```cpp
-while(notDoinganything){
-    do something
+while(notDoingaAything){
+    do Something;
 }
 ```
-
----
