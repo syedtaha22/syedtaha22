@@ -6,15 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Executive+Council+@DSS+IBA;Teaching+Assistant+@IBA;xSWE+Fellow+@Headstarter;CS+Student+@IBA,+Karachi" alt="Typing SVG" />
 </div>
 
-<br/>
 
 ### 👨‍💻 About Me
 
 <p align="justify">
   I'm a third-semester Computer Science student at IBA Karachi, focused on AI and machine learning. I’m currently exploring neural networks and generative AI. As an <b>Executive Council Member for Program Design</b> at <b>IBA’s Data Science Society</b>, I organize workshops and events for fellow students.
 </p>
-
-<br/>
 
 ### 🛠️ My Work
 
@@ -39,12 +36,13 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 </div>
 
-
 ### 📚 Key Interests
 
 - AI and Machine Learning
 - Optimization Algorithms and Genetic Algorithms
 - Real-world Applications in Data Science
+
+</br>
 
 <p align="center">Thanks for stopping by! Feel free to explore my projects and connect with me for collaborations or discussions in data science, AI, and beyond.</p>
 
