@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Syed Taha</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Executive+Council+@DSS+IBA;Teaching+Assistant+@IBA;xSWE+Fellow+@Headstarter;CS+Student+@IBA,+Karachi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+Mono&weight=500&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Executive+Council+@DSS+IBA;Teaching+Assistant+@IBA;xSWE+Fellow+@Headstarter;CS+Student+@IBA,+Karachi" alt="Typing SVG" />
 </div>
 
 
