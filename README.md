@@ -21,7 +21,7 @@
 
 <div align="center">
     
-[![Chess-v5.0](https://img.shields.io/badge/Chess--v5.0-FF4757?style=for-the-badge&logo=chess&logoColor=white&height=20)](https://github.com/syedtaha22/Chess-v5.0)
+[![Chess-v5.0](https://img.shields.io/badge/Chess--v5.0-FF4757?style=for-the-badge&logo=cplusplus&logoColor=white&height=20)](https://github.com/syedtaha22/Chess-v5.0)
 [![CPP-Neural-Network](https://img.shields.io/badge/CPP--Neural--Network-00B894?style=for-the-badge&logo=cplusplus&logoColor=white&height=20)](https://github.com/syedtaha22/CPP-Neural-Network)
 [![GAN-template](https://img.shields.io/badge/GAN--template-5F27CD?style=for-the-badge&logo=tensorflow&logoColor=white&height=20)](https://github.com/syedtaha22/GAN-template)
 [![Intro_to_Programming_CPP](https://img.shields.io/badge/Intro_to_Programming_CPP-1DD1A1?style=for-the-badge&logo=cplusplus&logoColor=white&height=20)](https://github.com/syedtaha22/Intro_to_Programming_CPP)
