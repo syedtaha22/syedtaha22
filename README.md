@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Taha 👋
 
-**Software Engineering Fellow @ Headstarter AI | CS Student @ IBA, Karachi**
+**Executive Council @DSS IBA | Teaching Assistant @IBA | xSWE Fellow @ Headstarter AI | CS Student @ IBA, Karachi**
 
 🔭 I’m currently working on various AI and machine learning projects.  
 🌱 I’m currently learning neural networks, and Generative AI
@@ -13,6 +13,6 @@ Simple Philosophy
 
 ```cpp
 while(notDoingaAything){
-    do Something;
+    doSomething();
 }
 ```
