@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 <p align="justify">
-  I'm a third-semester Computer Science student at IBA Karachi, focused on AI and machine learning. I’m currently exploring neural networks and generative AI. As an <b>Executive Council Member for Program Design</b> at <b>IBA’s Data Science Society</b>, I organize workshops and events for fellow students.
+  I'm a Computer Science student at IBA Karachi, with academic and research interests spanning AI, machine learning, and their intersections with computer systems. My current focus is on edge AI, computer architecture, and the integration of AI/ML techniques at the operating system level.
 </p>
 
 </br>
