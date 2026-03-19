@@ -7,7 +7,7 @@
 </div>
 
 
-### 👨‍💻 About Me
+### About Me
 
 <p align="justify">
   I'm a Computer Science student at IBA Karachi, with academic and research interests spanning AI, machine learning, and their intersections with computer systems. My current focus is on edge AI, computer architecture, and the integration of AI/ML techniques at the operating system level.
@@ -15,7 +15,7 @@
 
 </br>
 
-### 🛠️ My Work
+### My Work
 
 </br>
 
@@ -30,7 +30,7 @@
 
 </br>
 
-### 📚 Key Interests
+### Key Interests
 
 - AI and Machine Learning
 - Optimization Algorithms and Genetic Algorithms
@@ -38,7 +38,7 @@
 
 </br>
 
-### 🔧 Technologies
+### Technologies
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
