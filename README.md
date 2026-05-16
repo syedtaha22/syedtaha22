@@ -55,6 +55,6 @@
 ### GitHub Stats
 
 <div align="center">
-      <img align="center" src="https://streak-stats.demolab.com?user=syedtaha22&theme=transparent&hide_border=true&ring=FB8C00&fire=FB8C00&sideLabels=E0E0E0&currStreakLabel=E0E0E0&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0&background=90%2C04253F%2C810000" alt="Syed Taha's GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=syedtaha22&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 </br>
