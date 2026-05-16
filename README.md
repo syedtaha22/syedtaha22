@@ -35,17 +35,13 @@
 - Optimization Algorithms and Genetic Algorithms
 - Real-world Applications in Data Science
 
-</br>
-
 ### Technologies
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
+  <img src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 </div>
 
