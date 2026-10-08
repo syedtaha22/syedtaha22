@@ -56,7 +56,33 @@ Reference only the present state of the project, in files and in chat. Anything 
 removed (deleted files, renamed items, dropped options, earlier versions, things that were moved
 or replaced) should not be mentioned. What is gone is gone.
 
-## 3. Code
+## 3. Formatting
+
+These rules apply to everything written, whatever the language or file type. The goal is that
+a file can be read top to bottom without effort.
+
+### Structure
+
+- Separate logical blocks with a blank line. Do not pack unrelated things together.
+- Put one statement, one entry or one item on each line. Expand a collection instead of packing
+  it into a single long line, unless it is short enough to read at a glance.
+- Keep related items visually grouped and unrelated items visually apart.
+
+### Layout
+
+- Use spaces for indentation, with one consistent width per language, following that language's
+  convention. Indent nested content under its parent.
+- Keep lines to 100 characters or fewer. Wrap long text at a natural break.
+- Remove trailing whitespace and end every file with a single newline.
+
+### Tooling
+
+- Use the formatter that belongs to the language and follow its output instead of formatting by
+  hand against it.
+- Generated files should meet the same standard as hand-written ones, and should be reformatted
+  if the generator packs its output together.
+
+## 4. Code
 
 ### Docstrings
 
@@ -72,7 +98,7 @@ Do not add fields, flags, options or states that someone has to remember to main
 example a status flag that is meant to be set once something is checked). Add only what the
 current work uses.
 
-## 4. Git
+## 5. Git
 
 ### Committing
 
