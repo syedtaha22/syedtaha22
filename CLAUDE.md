@@ -107,7 +107,8 @@ later commits.
 
 ### Commit messages
 
-A commit message has this shape: one summary line on top, then one paragraph of description.
+A commit message follows the 50/72 rule: a summary line of 50 characters or fewer, a blank line,
+then one paragraph of description wrapped at 72 characters per line.
 
 - It describes only the difference between the previous commit and the new one, as another
   developer sees it in the diff. To write one, inspect the actual diff against the last commit.
